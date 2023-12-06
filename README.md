@@ -9,3 +9,6 @@ Applying K-Means clustering would focus on the identified features (Continent an
 This framework was used to examine the similarities and differences between the dataset's features, as it classified the countries into values 0, 1, and 2 ("low," "medium," and "high").
 
 Based on the results obtained, it can be concluded that our program can accurately predict the fiscal stability of a country by using two indicators: tax revenue and government expenditure. 
+
+For the program’s demonstration two countries were utilized: Denmark and the United Arab Emirates. It was predcted that Denmark would be classified as "cluster 2" due to its high tax rate and the UAE would belong to "cluster 0" since it does not have an income tax. Therefore, our program is able to identify trends among various countries.  
+
