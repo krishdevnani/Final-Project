@@ -7,3 +7,5 @@ Our approach involved applying the K-Means clustering algorithm to categorize co
 Applying K-Means clustering would focus on the identified features (Continent and Country), and reveal the similarities of distinct groups, as it is formed by the algorithm based on the features and the patterns it identifies in the data. 
 
 This framework was used to examine the similarities and differences between the dataset's features, as it classified the countries into values 0, 1, and 2 ("low," "medium," and "high").
+
+Based on the results obtained, it can be concluded that our program can accurately predict the fiscal stability of a country by using two indicators: tax revenue and government expenditure. 
