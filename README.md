@@ -5,3 +5,5 @@ The data extraction was facilitated through the Wikipedia API, utilizing snippet
 Our approach involved applying the K-Means clustering algorithm to categorize countries into distinct groups based on their tax revenue and government expenditure as a percentage of GDP. We chose three clusters to represent low, medium, and high economic health, aiming to offer a nuanced understanding of the economic landscape.
 
 Applying K-Means clustering would focus on the identified features (Continent and Country), and reveal the similarities of distinct groups, as it is formed by the algorithm based on the features and the patterns it identifies in the data. 
+
+This framework was used to examine the similarities and differences between the dataset's features, as it classified the countries into values 0, 1, and 2 ("low," "medium," and "high").
