@@ -19,3 +19,4 @@ In regards to limitations, the program scraped data from Wikipedia using a Wikip
 In addition, it is assumed during this experiment that collecting tax revenue was an essential indicator of measuring a country’s level of fiscal stability. However, it should be noted that there are numerous countries through which revenue can be generated. This assumption cannot be made for all countries across the world. 
 
 
+Note: Specific instructions regarding the how the code is run is included as comments in the final_code.ipynb file
