@@ -12,3 +12,4 @@ Based on the results obtained, it can be concluded that our program can accurate
 
 For the program’s demonstration two countries were utilized: Denmark and the United Arab Emirates. It was predcted that Denmark would be classified as "cluster 2" due to its high tax rate and the UAE would belong to "cluster 0" since it does not have an income tax. Therefore, our program is able to identify trends among various countries.  
 
+In the future, it is reccomended to consider additional indicators to measure the level of fiscal stability. These include accounting for a country’s level of debt, a country’s budget balance, the foreign exchange reserves, and also the availability of natural resources. It is also recommended to incorporate more years during the analysis allowing the program to identify trends over time.
